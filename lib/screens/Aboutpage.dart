@@ -30,7 +30,7 @@ class AboutPage extends StatelessWidget {
                       ),
                       SizedBox(height: 8.0),
                       Text(
-                        'Taskify is a to-do app designed to enhance your productivity. '
+                        'This  is a to-do app designed to enhance your productivity. '
                         'Our main motive is to provide users with the tools they need '
                         'to effectively manage their time and tasks. With Taskify, you '
                         'can easily track your time, add new tasks, edit or delete them, '
