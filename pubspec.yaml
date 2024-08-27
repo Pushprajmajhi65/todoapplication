@@ -1,0 +1,51 @@
+name: test12
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.3.0
+  
+  lottie: ^1.2.0
+  animated_text_kit: ^4.2.2
+  firebase_auth: ^5.1.4
+  flutter_calendar_carousel: ^2.4.3
+  http: ^1.2.2
+  table_calendar: ^3.0.9
+  flutter_datetime_picker: ^1.5.1
+  flutter_switch: ^0.3.2
+  flutter_quill: ^8.4.3
+  flutter_tts: ^4.0.2
+  # flutter_local_notifications: ^17.2.2
+  timezone: ^0.8.0
+  cloud_firestore: ^5.2.1
+  stop_watch_timer: ^3.2.0
+  fl_chart: ^0.68.0
+  mocktail: ^1.0.4
+  nb_utils: ^7.0.4
+  flutter_bloc: ^8.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/animation.json
+    - assets/animation2.json
+    - assets/splash.json
+    - assets/loader.json
+    - assets/sucess.json
+    - assets/sucess1.json
+    

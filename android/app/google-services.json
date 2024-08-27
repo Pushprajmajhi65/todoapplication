@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220293392568",
+    "project_id": "flutterloginregister-82be1",
+    "storage_bucket": "flutterloginregister-82be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220293392568:android:b77abbe4fcc9a45c546c4d",
+        "android_client_info": {
+          "package_name": "com.pushprajlogin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoghCAQyGc2ut7xHXyUiuk5mfnXVe_swk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
